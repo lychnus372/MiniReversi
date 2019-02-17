@@ -1,0 +1,2 @@
+master.render();
+master.showMove();
